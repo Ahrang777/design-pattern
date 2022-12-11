@@ -1,6 +1,6 @@
-package builder;
+package creational.builder;
 
-import builder.builder3.Book;
+import creational.builder.builder3.Book;
 
 public class Main {
     public static void main(String[] args) {

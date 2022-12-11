@@ -1,4 +1,4 @@
-package builder.telescoping1.tour;
+package creational.builder.telescoping1.tour;
 
 import java.time.LocalDate;
 import java.util.List;

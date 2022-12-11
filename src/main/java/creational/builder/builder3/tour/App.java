@@ -1,4 +1,4 @@
-package builder.builder3.tour;
+package creational.builder.builder3.tour;
 
 public class App {
     public static void main(String[] args) {

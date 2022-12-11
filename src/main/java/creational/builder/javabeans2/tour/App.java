@@ -1,8 +1,7 @@
-package builder.javabeans2.tour;
+package creational.builder.javabeans2.tour;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class App {
     public static void main(String[] args) {

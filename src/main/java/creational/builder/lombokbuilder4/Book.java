@@ -1,4 +1,4 @@
-package builder.lombokbuilder4;
+package creational.builder.lombokbuilder4;
 
 import lombok.Builder;
 import lombok.NonNull;

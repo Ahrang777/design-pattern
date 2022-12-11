@@ -1,4 +1,4 @@
-package builder.javabeans2.tour;
+package creational.builder.telescoping1.tour;
 
 /**
  * n일차 할 일
@@ -9,22 +9,6 @@ public class DetailPlan {
 
     public DetailPlan(int day, String plan) {
         this.day = day;
-        this.plan = plan;
-    }
-
-    public int getDay() {
-        return day;
-    }
-
-    public void setDay(int day) {
-        this.day = day;
-    }
-
-    public String getPlan() {
-        return plan;
-    }
-
-    public void setPlan(String plan) {
         this.plan = plan;
     }
 

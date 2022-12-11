@@ -1,4 +1,4 @@
-package builder.javabeans2.tour;
+package creational.builder.builder3.tour;
 
 import java.time.LocalDate;
 import java.util.List;

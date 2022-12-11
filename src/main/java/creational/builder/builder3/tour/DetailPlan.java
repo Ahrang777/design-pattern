@@ -1,4 +1,4 @@
-package builder.builder3.tour;
+package creational.builder.builder3.tour;
 
 /**
  * n일차 할 일

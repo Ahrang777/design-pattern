@@ -1,4 +1,4 @@
-package builder.telescoping1;
+package creational.builder.telescoping1;
 
 /**
  * Telescoping Constructor Pattern
