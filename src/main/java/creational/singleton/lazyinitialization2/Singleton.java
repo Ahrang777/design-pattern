@@ -1,7 +1,8 @@
-package singleton.synchronized3;
+package creational.singleton.lazyinitialization2;
 
 /**
- * synchronized를 통해 멀티 쓰레드에 대해 thread safe 하게 작성
+ * Lazy Initialization
+ * 필요할때 instance를 생성하는 방식
  */
 public class Singleton {
     private static Singleton instance;
@@ -10,7 +11,7 @@ public class Singleton {
 
     }
 
-    public synchronized static Singleton getInstance() {
+    public static Singleton getInstance() {
         if (instance == null) {
             instance = new Singleton();
         }
@@ -19,6 +20,6 @@ public class Singleton {
 
     // 관련 메서드 ...
     public void print() {
-        System.out.println("singleton pattern: synchronized");
+        System.out.println("singleton pattern: 싱글 쓰레드 Lazy Initialization");
     }
 }

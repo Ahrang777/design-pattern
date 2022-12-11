@@ -1,4 +1,4 @@
-package singleton.demandholder6;
+package creational.singleton.demandholder6;
 
 /**
  * Initialization on demand(lazy) holder idiom
