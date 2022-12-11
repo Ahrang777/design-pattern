@@ -1,6 +1,6 @@
-package singleton;
+package creational.singleton;
 
-import singleton.demandholder6.Singleton;
+import creational.singleton.demandholder6.Singleton;
 
 public class Main {
     public static void main(String[] args) {

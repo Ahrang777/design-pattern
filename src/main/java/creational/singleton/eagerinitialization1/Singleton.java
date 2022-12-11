@@ -1,4 +1,4 @@
-package singleton.eagerinitialization1;
+package creational.singleton.eagerinitialization1;
 
 /**
  * Eager Initialization

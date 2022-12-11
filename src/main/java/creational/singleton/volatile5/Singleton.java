@@ -1,10 +1,10 @@
-package singleton.dcl4;
+package creational.singleton.volatile5;
 
 /**
- * DCL (Double Checked Locking)
+ * volatile을 이용한 명령어 reorder 금지
  */
 public class Singleton {
-    private static Singleton instance;
+    private volatile static Singleton instance;
 
     private Singleton() {
 
@@ -22,7 +22,4 @@ public class Singleton {
     }
 
     // 관련 메서드 ...
-    public void print() {
-        System.out.println("singleton pattern: DCL");
-    }
 }
