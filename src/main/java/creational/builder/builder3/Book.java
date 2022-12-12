@@ -1,4 +1,4 @@
-package builder.builder3;
+package creational.builder.builder3;
 
 /**
  * Builder 패턴

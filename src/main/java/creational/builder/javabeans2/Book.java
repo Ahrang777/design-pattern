@@ -1,4 +1,4 @@
-package builder.javabeans2;
+package creational.builder.javabeans2;
 
 /**
  * JavaBeans 패턴
