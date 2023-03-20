@@ -7,9 +7,6 @@ assignees: ''
 
 ---
 
-### 만들고자 하는 기능이 무엇인가요?
-ex) 로그인 기능 구현
-
 ## Description
 
 > description
@@ -18,7 +15,4 @@ ex) 로그인 기능 구현
 
 - [ ] todo1
 - [ ] todo2
-- [ ] todo3 
-
-### 예상 작업 시간
-ex) 3h
+- [ ] todo3
