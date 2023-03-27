@@ -1,4 +1,4 @@
-package behavioral.observer;
+package behavioral.observer.weather;
 
 public class main {
 	public static void main(String[] args) {
